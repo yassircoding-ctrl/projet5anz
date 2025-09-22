@@ -1,4 +1,3 @@
 x = "yassir"
 
-for letter in x :
-    print(letter)
+print(x[0])
